@@ -1,7 +1,6 @@
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install openssh-server
-ssh-copy-id ikbear@S
 
 sudo apt-get install build-essential git-core curl
 
