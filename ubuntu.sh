@@ -5,7 +5,7 @@ sudo apt-get install openssh-server
 sudo apt-get install build-essential git-core curl
 
 # zsh
-sudo apt-get instlal zsh
+sudo apt-get install zsh
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
 chsh -s `which zsh`
 
