@@ -20,7 +20,7 @@ sudo apt-get install tmux
 cp Ubuntu-Env/tmux-conf ~/.tmux-conf
 
 # Vim
-sudo apt-get instlal vim
+sudo apt-get install vim
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 cp Ubuntu-Env/vimrc ~/.vimrc
 vim +BundleInstall +qa
